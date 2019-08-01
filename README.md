@@ -1,2 +1,2 @@
 # ReactApp
-App to learn react concepts
+Application built to learn react concepts
